@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stich\\source\\repos\\GitTest\\GitTest\\GitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Stich\\Desktop\\TestGit\\GitTest\\GitTest.csproj",
       "projectName": "GitTest",
-      "projectPath": "C:\\Users\\Stich\\source\\repos\\GitTest\\GitTest\\GitTest.csproj",
+      "projectPath": "C:\\Users\\Stich\\Desktop\\TestGit\\GitTest\\GitTest.csproj",
       "packagesPath": "C:\\Users\\Stich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stich\\source\\repos\\GitTest\\GitTest\\obj\\",
+      "outputPath": "C:\\Users\\Stich\\Desktop\\TestGit\\GitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
