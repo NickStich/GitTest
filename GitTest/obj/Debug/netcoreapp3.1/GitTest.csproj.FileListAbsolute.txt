@@ -11,3 +11,16 @@ C:\Users\Stich\source\repos\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.cspr
 C:\Users\Stich\source\repos\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.dll
 C:\Users\Stich\source\repos\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.pdb
 C:\Users\Stich\source\repos\GitTest\GitTest\obj\Debug\netcoreapp3.1\GitTest.genruntimeconfig.cache
+C:\Users\Stich\Desktop\TestGit\GitTest\bin\Debug\netcoreapp3.1\GitTest.exe
+C:\Users\Stich\Desktop\TestGit\GitTest\bin\Debug\netcoreapp3.1\GitTest.deps.json
+C:\Users\Stich\Desktop\TestGit\GitTest\bin\Debug\netcoreapp3.1\GitTest.runtimeconfig.json
+C:\Users\Stich\Desktop\TestGit\GitTest\bin\Debug\netcoreapp3.1\GitTest.runtimeconfig.dev.json
+C:\Users\Stich\Desktop\TestGit\GitTest\bin\Debug\netcoreapp3.1\GitTest.dll
+C:\Users\Stich\Desktop\TestGit\GitTest\bin\Debug\netcoreapp3.1\GitTest.pdb
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.csprojAssemblyReference.cache
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.AssemblyInfoInputs.cache
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.AssemblyInfo.cs
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.dll
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.pdb
+C:\Users\Stich\Desktop\TestGit\GitTest\obj\Debug\netcoreapp3.1\GitTest.genruntimeconfig.cache
