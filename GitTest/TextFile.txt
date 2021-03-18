@@ -1,2 +1,6 @@
 ﻿Testing file .
+<<<<<<< HEAD
+Creating conflict.
+=======
 Create conflict.
+>>>>>>> main

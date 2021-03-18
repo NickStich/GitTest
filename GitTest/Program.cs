@@ -7,7 +7,11 @@ namespace GitTest
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
+<<<<<<< HEAD
+            Console.WriteLine("This is local ");
+=======
             Console.WriteLine("This is main");
+>>>>>>> main
             TestMethod();
         }
 
